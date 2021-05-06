@@ -1,4 +1,4 @@
-class cliente {
+class cliente  {
   constructor (nome,endereço){
     this.nome = nome;
     this.endereço = endereço;
